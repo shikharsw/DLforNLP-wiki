@@ -10,6 +10,7 @@ Wiki for the Deep Learning for Natural Language Processing [course](http://www.c
 	4. Hierarchical attention network - Vaijenath, Anil, Pratik
 	5. Question Answer System - Rohith AP, Ronit Halder, V Nidhin Krishnan.
 	6. Combined Neural Models: Comparison and Analysis - Soumalya, Srinighi, Bala
+	7. Classification using Sentence Level Embedding - Nitin Kumar, Shikhar Verma, Shubham Goel
   
 ## -----------------------------------------------------------------------------
 
@@ -50,3 +51,10 @@ Team Members - Soumalya Seal, Srinidhi R, Balasubramaniam S
 	* Xingyou Wang,Weijie Jiang, Zhiyong Luo **Combination of Convolutional and Recurrent Neural Network for Sentiment Analysis of Short Texts.** [[Paper](https://pdfs.semanticscholar.org/a0c3/b9083917b6c2368ebf09483a594821c5018a.pdf)]
 	* Chunting Zhou, Chonglin Sun, Zhiyuan Liu, Francis C.M. Lau **A C-LSTM Neural Network for Text Classification**. [[Paper](https://arxiv.org/abs/1511.08630)]
 	* Siwei Lai, Liheng Xu, Kang Liu, Jun Zhao **Recurrent convolutional neural networks for text classification**. [[Paper](https://pdfs.semanticscholar.org/eba3/6ac75bf22edf9a1bfd33244d459c75b98305.pdf)]
+
+### Classification using Sentence Level Embedding
+Team Members - Nitin Kumar, Shikhar Verma, Shubham Goel
+1. November 24th, 2017:
+	* Kiros, Ryan, Zhu, Yukun, Salakhutdinov, Ruslan R, Zemel, Richard, Urtasun, Raquel, Torralba, Antonio, and Fidler, Sanja. 2015. **Skip-Thought Vectors.** [[Paper]](https://arxiv.org/abs/1506.06726)
+	* Hill, Felix, Cho, Kyunghyun, and Korhonen, Anna. 2016 **Learning Distributed Representations of Sentences from Unlabelled Data**. [[Paper]](https://arxiv.org/abs/1602.03483)
+	* Matteo Pagliardini, Prabhakar Gupta, Martin Jaggi. 2017 **Unsupervised Learning of Sentence Embeddings using Compositional n-Gram Features**. [[Paper]](https://arxiv.org/abs/1703.02507)
